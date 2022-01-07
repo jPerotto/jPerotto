@@ -10,10 +10,5 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jPerotto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jPerotto&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
-</div>
-
-
 
 ![Snake animation](https://github.com/jperotto/jperotto/blob/output/github-contribution-grid-snake.svg)
