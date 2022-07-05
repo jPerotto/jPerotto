@@ -1,7 +1,6 @@
 ## Juliano Perotto
 
 
-
 Sou Juliano Perotto, formado em Engenharia da computação. Desenvolvedor de tecnologias embarcadas para coleta, visualização e uso aplicado das informações.
 Minhas formações externas se estendem com cursos nas áreas de Inteligência Artificial e Big Data.
 Durante meu processo de graduação pude participar de diversas atividades que garantiram uma sólida formação.
@@ -41,12 +40,16 @@ Front-end web
 
 <div>
 <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+<img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 Sistem Operation
 </div>
 
 <div>
 <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" />
-Compiler
+<img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" />
+<img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+Compiler and ambient
 </div>
 
 <div>
@@ -55,6 +58,20 @@ Compiler
 <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
 <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-plain.svg" />
 Work repositories
+</div>
+
+<div>
+<img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
+<img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />
+<img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" />
+<img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
+<img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
+Prototypes modes
+</div>
+
+<div>
+<img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
+Workflows modes
 </div>
 </div>
 
