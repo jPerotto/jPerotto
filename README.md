@@ -48,6 +48,14 @@ Sistem Operation
 <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" />
 Compiler
 </div>
+
+<div>
+<img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
+<img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-plain.svg" />
+Work repositories
+</div>
 </div>
 
 ![Snake animation](https://github.com/jperotto/jperotto/blob/output/github-contribution-grid-snake.svg)
