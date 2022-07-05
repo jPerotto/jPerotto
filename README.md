@@ -68,11 +68,6 @@ Work repositories
 <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 Prototypes modes
 </div>
-
-<div>
-<img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
-Workflows modes
-</div>
 </div>
 
 ![Snake animation](https://github.com/jperotto/jperotto/blob/output/github-contribution-grid-snake.svg)
