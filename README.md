@@ -28,7 +28,7 @@ Atualmente sou empreendedor em 2 Startups para solucionar as dificuldades de pro
 <div>
 <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-Embedded
+Embedded Languages
 </div>
 
 <div>
@@ -67,11 +67,6 @@ Work repositories
 <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
 <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 Prototypes modes
-</div>
-
-<div>
-<img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
-Workflows modes
 </div>
 </div>
 
