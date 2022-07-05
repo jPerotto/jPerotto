@@ -28,7 +28,7 @@ Atualmente sou empreendedor em 2 Startups para solucionar as dificuldades de pro
 <div>
 <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-Embedded
+Embedded Languages
 </div>
 
 <div>
