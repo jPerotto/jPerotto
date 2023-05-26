@@ -1,5 +1,6 @@
 ## Juliano Perotto
 
+![Metrics](https://metrics.lecoq.io/jPerotto?template=classic&isocalendar=1&followup=1&introduction=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&followup=false&followup.sections=repositories&followup.indepth=true&followup.archived=true&introduction=false&introduction.title=true&config.timezone=America%2FSao_Paulo&config.display=large)
 
 Sou Juliano Perotto, formado em Engenharia da computação. Desenvolvedor de tecnologias embarcadas para coleta, visualização e uso aplicado das informações.
 Minhas formações externas se estendem com cursos nas áreas de Inteligência Artificial e Big Data.
