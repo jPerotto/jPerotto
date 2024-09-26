@@ -13,11 +13,7 @@ Atualmente sou empreendedor em 2 Startups para solucionar as dificuldades de pro
 
 ### Contribuitions
 
-<div align="left">
-<a href="https://github.com/jPerotto">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jPerotto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jPerotto&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jPerotto?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
 
 ### Tecnologies
@@ -44,6 +40,7 @@ Sistem Operation
 </div>
 
 <div>
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
 <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" />
 <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" />
 <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
